@@ -1,0 +1,66 @@
+.jumbotron {
+    background-color: #babfc2;
+  }
+h1{
+   font-weight: 520;
+   
+}
+
+h1:hover{
+   font-size: 45px;
+}
+
+.def{
+   color: red;
+   font-weight: bold;
+}
+h2:hover{
+   font-size: 37px;
+}
+
+body{
+    background-color: rgb(218, 223, 188);
+}
+h4{
+   color: black;
+   font-weight: 550;
+}
+
+strong:hover{
+   font-size: 17px;
+}
+
+h4:hover{
+   font-size: 27px;
+   color: red;
+}
+
+ /* .card:hover{
+    font-size: 120%; 
+ } */
+
+ /* Code below is the the styling of footer which is made through bootstrap */
+ footer{
+    background-color: black;
+ }
+ .container-fluid{
+    width: 90%;
+ }
+ h3{
+    writing-mode: vertical-rl;
+    font-size: 30px;
+    transform: rotate(180deg);
+ }
+ hr{
+    background-color: white;
+    height: 2px;
+    width: 50%;
+    margin-left: 0;
+ }
+
+ a{
+   color:darkorange ;
+   font-weight: bolder;
+ }
+
+ 
